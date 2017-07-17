@@ -27,3 +27,25 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+/* Home */
+/* Source: https://stackoverflow.com/questions/5195836/2-column-div-layout-right-column-with-fixed-width-left-fluid#5195902 */
+
+.container {
+   height: auto;
+   overflow: hidden;
+}
+
+.left {
+    width: 180px;
+    float: right;
+    background: #aafed6;
+}
+
+.right {
+    float: none; /* not needed, just for clarification */
+    background: #e8f6fe;
+    /* the next props are meant to keep this block independent from the other floated one */
+    width: auto;
+    overflow: hidden;
+}​​
