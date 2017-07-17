@@ -37,14 +37,14 @@ ul.posts li { list-style: none; }
 }
 
 .right {
-    width: 180px;
+    width: auto;
     float: right;
 }
 
 .left {
     float: none; /* not needed, just for clarification */
     /* the next props are meant to keep this block independent from the other floated one */
-    width: auto;
+    width: 84px;
     overflow: hidden;
 }​​
 
