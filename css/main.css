@@ -36,16 +36,23 @@ ul.posts li { list-style: none; }
    overflow: hidden;
 }
 
-.left {
+.right {
     width: 180px;
-    float: right;
-    background: #aafed6;
+    float: left;
 }
 
-.right {
+.left {
     float: none; /* not needed, just for clarification */
-    background: #e8f6fe;
     /* the next props are meant to keep this block independent from the other floated one */
     width: auto;
     overflow: hidden;
 }​​
+
+/* Additions to timeline style.css */
+
+.cd-date {
+  font-size: 13px;
+  font-size: 0.8125rem;
+  text-align: center;
+  vertical-align: middle;
+}
