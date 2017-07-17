@@ -36,17 +36,17 @@ ul.posts li { list-style: none; }
    overflow: hidden;
 }
 
-.right {
-    width: auto;
-    float: right;
-}
-
 .left {
+    width: 84px;
+    float: left;
+}​​
+
+.right {
     float: none; /* not needed, just for clarification */
     /* the next props are meant to keep this block independent from the other floated one */
-    width: 84px;
+    width: auto;
     overflow: hidden;
-}​​
+}
 
 /* Additions to timeline style.css */
 
