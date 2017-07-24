@@ -40,16 +40,17 @@ ul.posts li { list-style: none; }
 }
 
 .left {
-    width: 125px;
+    width: 250px;
     float: left;
 	font-size: .8em;
-}​​
+}
 
 .right {
     float: none; /* not needed, just for clarification */
     /* the next props are meant to keep this block independent from the other floated one */
     width: auto;
     overflow: hidden;
+    padding: 0 0 0 1.6em;
 }
 
 /* About */
