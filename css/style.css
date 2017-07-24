@@ -264,9 +264,16 @@ header h1 {
   font-size: 0.8125rem;
 }
 .cd-date {
-  position: absolute;
-  left: 3px;
-  top: 10px;
+.cd-date {
+  display: block;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  left: 50%;
+  top: 50%;
+  margin-left: -12px;
+  margin-top: -12px;
+  text-align: center;
   color: #7f8c97;
 }
 .cd-date p {
