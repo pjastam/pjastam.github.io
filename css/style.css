@@ -18,8 +18,8 @@ body {
   font-size: 100%;
   font-family: "Open Sans", sans-serif;
   color: #7f8c97;
-  background-color: #e9f0f5;
-  font-weight: bold;
+  background-color: #f1f1f1;
+  font-weight: normal;
 }
 
 a {
@@ -276,8 +276,7 @@ header h1 {
   color: #7f8c97;
 }
 .cd-date p {
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
