@@ -270,13 +270,10 @@ header h1 {
   position: relative;
   left: 50%;
   top: 50%;
-  margin-left: -12px;
-  margin-top: -12px;
-  text-align: center;
+  margin-left: -18px;
+  margin-top: -8px;
   color: #7f8c97;
-}
-.cd-date p {
-	text-align: center;
+  font-weight: bold;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
