@@ -29,15 +29,10 @@ ul.posts li { list-style: none; }
 /* Home */
 /* Source: https://stackoverflow.com/questions/5195836/2-column-div-layout-right-column-with-fixed-width-left-fluid#5195902 */
 
-.container {
+.homepage {
    height: auto;
    overflow: hidden;
 }
-
-.left {
-    width: 120px;
-    float: left;
-}​​
 
 .right {
     float: none; /* not needed, just for clarification */
@@ -45,3 +40,8 @@ ul.posts li { list-style: none; }
     width: auto;
     overflow: hidden;
 }
+
+.left {
+    width: 120px;
+    float: left;
+}​​
