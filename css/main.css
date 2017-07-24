@@ -29,6 +29,11 @@ ul.posts li { list-style: none; }
 /* Home */
 /* Source: https://stackoverflow.com/questions/5195836/2-column-div-layout-right-column-with-fixed-width-left-fluid#5195902 */
 
+.blurb { margin: 0px 0px 60px; }
+.blurb h1 { font-size: 3em; }
+.blurb h2 { font-size: 2em; }
+.blurb p { font-size: 1.2em; }
+	
 .homepage {
    height: auto;
    overflow: hidden;
@@ -45,3 +50,10 @@ ul.posts li { list-style: none; }
     width: auto;
     overflow: hidden;
 }
+
+/* About */
+
+.about { margin: 0px 0px 60px; }
+.about h1 { font-size: 3em; }
+.about h2 { font-size: 2em; }
+.about p { font-size: 1.2em; }
