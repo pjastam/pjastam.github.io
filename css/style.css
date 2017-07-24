@@ -264,7 +264,7 @@ header h1 {
 .cd-date {
   text-align: center;
   vertical-align: middle;
-  color: white;
+  color: #7f8c97;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;

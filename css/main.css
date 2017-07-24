@@ -35,14 +35,15 @@ ul.posts li { list-style: none; }
 }
 
 .left {
-    width: 84px;
+    width: 120px;
     float: left;
 }​​
 
 .right {
-	margin-left: 60px;
     float: none; /* not needed, just for clarification */
     /* the next props are meant to keep this block independent from the other floated one */
     width: auto;
     overflow: hidden;
+    position: relative;
+    left: 30px;
 }
