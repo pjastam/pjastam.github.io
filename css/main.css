@@ -34,14 +34,14 @@ ul.posts li { list-style: none; }
    overflow: hidden;
 }
 
+.left {
+    width: 120px;
+    float: left;
+}​​
+
 .right {
     float: none; /* not needed, just for clarification */
     /* the next props are meant to keep this block independent from the other floated one */
     width: auto;
     overflow: hidden;
 }
-
-.left {
-    width: 120px;
-    float: left;
-}​​
