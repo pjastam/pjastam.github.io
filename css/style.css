@@ -24,7 +24,7 @@ body {
 
 a {
   color: #acb7c0;
-  text-decoration: none;
+  text-decoration: underline;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -255,9 +255,6 @@ header h1 {
   content: "";
   display: table;
   clear: both;
-}
-.cd-timeline-content h2 {
-  color: #303e49;
 }
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   font-size: 13px;
