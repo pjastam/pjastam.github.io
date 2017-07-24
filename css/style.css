@@ -155,13 +155,13 @@ header h1 {
   margin-top: -12px;
 }
 .cd-timeline-img.cd-picture {
-  background: #75ce66;
+  background: #d7e4ed;
 }
 .cd-timeline-img.cd-movie {
-  background: #c03b44;
+  background: #d7e4ed;
 }
 .cd-timeline-img.cd-location {
-  background: #f0ca45;
+  background: #d7e4ed;
 }
 @media only screen and (min-width: 1170px) {
   .cd-timeline-img {
@@ -260,6 +260,11 @@ header h1 {
 .cd-timeline-content p, .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   font-size: 13px;
   font-size: 0.8125rem;
+}
+.cd-date {
+  text-align: center;
+  vertical-align: middle;
+  color: white;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
