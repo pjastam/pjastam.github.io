@@ -137,12 +137,13 @@ header h1 {
 
 .cd-timeline-img {
   position: absolute;
-  top: 20px;
-  left: 20px;
+  top: 0;
+  left: 0;
   width: 40px;
   height: 40px;
   border-radius: 50%;
   box-shadow: 0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+  font-weight: bold;
 }
 .cd-timeline-img img {
   display: block;
@@ -262,8 +263,9 @@ header h1 {
   font-size: 0.8125rem;
 }
 .cd-date {
-  text-align: center;
-  vertical-align: middle;
+  position: absolute;
+  left: 3px;
+  top: 10px;
   color: #7f8c97;
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
