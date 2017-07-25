@@ -32,6 +32,7 @@ ul.posts li { list-style: none; }
 .blurb h1 { font-size: 3em; }
 .blurb h2 { font-size: 2em; }
 .blurb p { font-size: 1.2em; }
+.blurb a { text-decoration: underline; }
 	
 .homepage {
    height: auto;
@@ -52,9 +53,12 @@ ul.posts li { list-style: none; }
     padding: 0 0 0 1.6em;
 }
 
+.right a { text-decoration: underline; }
+
 /* About */
 
 .about { margin: 0px 0px 60px; }
 .about h1 { font-size: 3em; }
 .about h2 { font-size: 2em; }
 .about p { font-size: 1.2em; }
+.about a { text-decoration: underline; }
