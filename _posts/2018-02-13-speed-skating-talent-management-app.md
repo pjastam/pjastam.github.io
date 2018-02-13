@@ -17,7 +17,7 @@ More specifically, the 'shiny-speedskating' app graphs the best monthly track ti
 
 The 'shiny-speedskating' app generates a benchmark for current track times of junior speed skaters. But in addition it can also be used as a reference career path in terms of future track times. The reason is that the track times of the professional speed skaters at later ages and during their professional career are also graphed with this app. In this way, more recent track times of professional speed skaters can be used for the career development of high potential junior speed skaters too.
 
-##### ** Demo **
+##### **Demo**
 
 You can find an interactive demo of the app [here](https://pjastam.shinyapps.io/speedskating/). You can choose a junior speed skater in the first select box and a professional speed skater in the second select box. The input checkbox is checked by default, in which case the difference in birth dates between these two speedskaters is adjusted for. The graph is redrawn each time one of these three choices is altered.
 
