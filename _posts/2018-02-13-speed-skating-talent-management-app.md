@@ -32,4 +32,4 @@ This app can be further developed in lots of different ways. One way for improve
 
 A second route for improvement is to develop the backend. The data are now loaded into the app in a static way. To load more recent data interactively into the app, a backend functionality to this Shiny app is needed. I have developed a first version of this backend, but this one is not efficient enough and should be developed as a separate backend development project.
   
-Please feel free to contact me if you would like to contribute in either of these ways. You can contact me at my GitHub email address if you would like to share your thoughts on this app.
+Please feel free to contact me if you would like to contribute in either of these ways. You can share your thoughts below.
