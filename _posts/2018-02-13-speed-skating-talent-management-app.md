@@ -6,6 +6,8 @@ date: 2018-02-13
 
 I published the code of the Shiny front-end to my speed skating app at [GitHub](https://github.com/pjastam/shiny-speedskating). This app is useful for talent management by scouts, trainers and coaches of speed skating teams. [Speed skating](https://en.wikipedia.org/wiki/Speed_skating) is a popular winter sport in [the Netherlands](https://en.wikipedia.org/wiki/Netherlands).
 
+##### Why?
+
 The reason for building this app is that talent management of junior speed skaters with the potential to become a professional athlete may be hampered by a lack of strong(er) competition from their same age peers during their daily training routine. There are two explanations why the probability of strong competition for high potential junior speed skaters is small. First of all, the number of high potentials of a given age is small due to the small population size of the Netherlands. Second, the junior speed skaters are assigned to a number of training facilities which are distributed across the country. Thus, within each training facility, the number of junior speed skaters with the potential of a professional career is even smaller.
 
 As a consequence, outperformance of these peers may not be a good indicator of the potential of a junior speed skater to become a professional. A better indicator might be the performance of professional speed skaters during the days that they were of the same age as the junior speed skater.
@@ -17,7 +19,7 @@ More specifically, the 'shiny-speedskating' app graphs the best monthly track ti
 
 The 'shiny-speedskating' app generates a benchmark for current track times of junior speed skaters. But in addition it can also be used as a reference career path in terms of future track times. The reason is that the track times of the professional speed skaters at later ages and during their professional career are also graphed with this app. In this way, more recent track times of professional speed skaters can be used for the career development of high potential junior speed skaters too.
 
-##### **Demo**
+##### Demo
 
 You can find an interactive demo of the app [here](https://pjastam.shinyapps.io/speedskating/). You can choose a junior speed skater in the first select box and a professional speed skater in the second select box. The input checkbox is checked by default, in which case the difference in birth dates between these two speedskaters is adjusted for. The graph is redrawn each time one of these three choices is altered.
 
