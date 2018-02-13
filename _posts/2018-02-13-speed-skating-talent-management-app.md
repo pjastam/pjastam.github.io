@@ -2,6 +2,7 @@
 layout: post
 title: "Speed skating talent management app"
 date: 2018-02-13
+comments: true
 ---
 
 I published the code of the Shiny front-end to my speed skating app at [GitHub](https://github.com/pjastam/shiny-speedskating). This app is useful for talent management by scouts, trainers and coaches of speed skating teams. [Speed skating](https://en.wikipedia.org/wiki/Speed_skating) is a popular winter sport in [the Netherlands](https://en.wikipedia.org/wiki/Netherlands).
