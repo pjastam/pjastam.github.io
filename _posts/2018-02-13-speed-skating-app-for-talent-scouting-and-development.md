@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speed skating app for talent scouting & development"
+title: "Speed skating app for talent scouting and development"
 date: 2018-02-13
 comments: true
 ---
