@@ -15,7 +15,7 @@ nav ul li, footer ul li { display: inline; margin-right: 20px; }
 footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 
 /* Blog */
-ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
+ul.posts { margin: 20px auto 40px; font-size: 1.2em; }
 ul.posts li { list-style: none; }
 
 /* CV */
@@ -24,6 +24,7 @@ ul.posts li { list-style: none; }
 .cv h2 { font-size: 2em; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+.cv a { text-decoration: underline; }
 
 /* Home */
 /* Source: https://stackoverflow.com/questions/5195836/2-column-div-layout-right-column-with-fixed-width-left-fluid#5195902 */
