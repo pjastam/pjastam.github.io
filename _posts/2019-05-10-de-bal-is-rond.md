@@ -7,11 +7,11 @@ comments: true
 
 > Deze blog van mijn hand heb ik op bovenstaande datum op [LinkedIn](https://www.linkedin.com/pulse/de-bal-rond-piet-stam/) gepubliceerd en is hier integraal overgenomen om de openbare beschikbaarheid te garanderen.
 
-![](https://github.com/pjastam/pjastam.github.io/tree/master/img/2019-05-10-1.jpg "Bron: De Telegraaf")
+![](https://github.com/pjastam/pjastam.github.io/blob/master/img/2019-05-10-1.jpg "Bron: De Telegraaf")
 
 Ajax en PSV vechten in hun race naar het kampioenschap tot op het laatst voor de punten. Dit weekend speelt Ajax thuis tegen FC Utrecht en PSV uit tegen AZ. Een hiërarchische Bayesiaanse Poisson analyse (ahum) van 5 seizoenen aan wedstrijddata voorspelt winst voor Ajax en PSV, maar voor PSV is er ook nog een gerede kans op een gelijkspel (1-1). Het kampioenschap gloort voor Ajax. Niettemin, de bal is rond… #livbar #ajatot
 
-![](https://github.com/pjastam/pjastam.github.io/tree/master/img/2019-05-10-2.png)
+![](https://github.com/pjastam/pjastam.github.io/blob/master/img/2019-05-10-2.png)
 
 Het voordeel van een Bayesiaanse aanpak is dat we naast puntvoorspellingen ook de onzekerheid die daarmee gepaard gaat goed in beeld kunnen brengen. Zo staan in bovenstaande figuur de verwachte kansverdelingen van de doelpunten die met het model worden voorspeld.
 
@@ -27,10 +27,10 @@ Als je geïnteresseerd bent in de volledige lijst met modelvoorspellingen, bijv.
 
 Zoals de Engelsen zeggen: "put your money where your mouth is". En dus heb ik op winst voor AZ en de gelijkspelletjes 0-0 en 1-1 elk een eurootje ingezet. Volgens mijn Bayesiaanse model zijn de kansen op de Toto goksite van de Nederlandse Loterij te laag ingeschat, dus hier valt mogelijk wat te halen. Fingers crossed!
 
-![](https://github.com/pjastam/pjastam.github.io/tree/master/img/2019-05-10-3.png "Bron: Nederlandse Loterij")
+![](https://github.com/pjastam/pjastam.github.io/blob/master/img/2019-05-10-3.png "Bron: Nederlandse Loterij")
 
 > Op [LinkedIn](https://www.linkedin.com/pulse/de-bal-rond-piet-stam/) heb ik **na afloop van de wedstrijd** het volgende commentaar toegevoegd
 
 Gewonnen! Nee, ik bedoel niet het kampioenschap van #Ajax, maar de Toto! Door de winst van #AZ met 3 euro inleg 4,15 euro verdiend, dus een winstmarge van 1,15 / 3 = 38%. Waar krijg je dat rendement tegenwoordig nog? In ieder geval niet op mijn spaarrekening. En dat allemaal mbv mijn #Bayesiaanse voorspelmodelletje. Dat belooft nog wat voor volgend seizoen. Ook maar eens nadenken hoe we dit #algoritme voor serieuzere zaken zinvol kunnen inzetten. #statistics #bestguess
 
-![](https://github.com/pjastam/pjastam.github.io/tree/master/img/2019-05-10-4.png "Bron: Nederlandse Loterij")
+![](https://github.com/pjastam/pjastam.github.io/blob/master/img/2019-05-10-4.png "Bron: Nederlandse Loterij")
