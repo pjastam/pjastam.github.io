@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "De bal is rond"
+title: "The ball is round (in Dutch)"
 date: 2019-05-10
 comments: true
 ---
