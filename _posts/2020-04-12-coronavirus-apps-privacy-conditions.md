@@ -35,7 +35,7 @@ zonder dat onze privacy op de tocht komt te staan? Die mogelijkheid is
 er zeker en wij doen hieronder een aftrap voor een lijst met de
 privacyvoorwaarden waaraan deze apps dan moeten voldoen.
 
-# Privacyvoorwaarden
+## Privacyvoorwaarden
 
 Een vruchtbare weg om bij de realisatie van de apps onze privacy te
 borgen is als we komen tot een lijst van voorwaarden c.q. een
@@ -331,7 +331,7 @@ zekerheid is over het ontstaan van immuniteit en de duur daarvan.
 
 </details>
 
-# Oproep aan het kabinet
+## Oproep aan het kabinet
 
 Wij hopen dat het kabinet alleen besluit tot inzet van apps met borging
 van onze privacy. Zeker als die apps verplicht worden gesteld, maar
@@ -343,7 +343,7 @@ Onze zorgen over de verspreiding van het coronavirus zijn groot, maar
 onze privacy is ook een groot goed en angst is een slechte raadgever. In
 alle opzichten geldt: ‘voorkomen is beter dan genezen’.
 
-# Auteurs
+# Commmunity
 
 Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel
 geschreven. Onze namen zijn:
@@ -352,11 +352,9 @@ geschreven. Onze namen zijn:
   - Peter Nobels, zorg-IT management consultant
   - Marco Woesthuis, arts (niet praktizerend)
 
-# Commmunity
-
-We hopen op inbreng van andere bezorgde burgers, zodat de lijst wordt
-aangescherpt en we samen de overheid aan een maatschappelijk gedragen
-toetsingskader helpen. Daarom hebben we de lijst met 10 uitgangspunten
+Wij pretenderen geenszins de wijsheid in pacht te hebben, onze privacy gaat ons immers allemaal aan. We hopen daarom op inbreng van andere bezorgde burgers, zodat de lijst wordt
+aangescherpt en we samen de overheid aan een maatschappelijk gedragen toetsingskader
+helpen. Daarom hebben we de lijst met 10 uitgangspunten
 in een [Wiki](https://github.com/pjastam/coronavirus-privacy/wiki)
 gezet, zodat iedereen kan meehelpen aan de aanscherping. Het enige dat
 je daarvoor nodig hebt is een GitHub login.
