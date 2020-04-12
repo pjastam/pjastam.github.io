@@ -330,7 +330,7 @@ zekerheid is over het ontstaan van immuniteit en de duur daarvan.
 </p>
 
 </details>
-
+  
 ## Oproep aan het kabinet
 
 Wij hopen dat het kabinet alleen besluit tot inzet van apps met borging
@@ -341,16 +341,16 @@ dient. ‘Baat het niet, schaadt het niet’ gaat hier niet op\!
 
 Onze zorgen over de verspreiding van het coronavirus zijn groot, maar
 onze privacy is ook een groot goed en angst is een slechte raadgever. In
-alle opzichten geldt: ‘voorkomen is beter dan genezen’.
+alle opzichten geldt: ‘voorkomen is beter dan genezen’.  
 
 # Commmunity
 
 Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel
 geschreven. Onze namen zijn:
 
-  - Piet Stam, gezondheidseconoom
-  - Peter Nobels, zorg-IT management consultant
-  - Marco Woesthuis, arts (niet praktizerend)
+* Piet Stam, gezondheidseconoom
+* Peter Nobels, zorg-IT management consultant
+* Marco Woesthuis, arts (niet praktizerend)
 
 Wij pretenderen geenszins de wijsheid in pacht te hebben, onze privacy gaat ons immers allemaal aan. We hopen daarom op inbreng van andere bezorgde burgers, zodat de lijst wordt
 aangescherpt en we samen de overheid aan een maatschappelijk gedragen toetsingskader
