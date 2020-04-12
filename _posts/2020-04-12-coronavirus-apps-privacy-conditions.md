@@ -35,7 +35,7 @@ zonder dat onze privacy op de tocht komt te staan? Die mogelijkheid is
 er zeker en wij doen hieronder een aftrap voor een lijst met de
 privacyvoorwaarden waaraan deze apps dan moeten voldoen.
 
-## Privacyvoorwaarden
+# Privacyvoorwaarden
 
 Een vruchtbare weg om bij de realisatie van de apps onze privacy te
 borgen is als we komen tot een lijst van voorwaarden c.q. een
@@ -330,8 +330,10 @@ zekerheid is over het ontstaan van immuniteit en de duur daarvan.
 </p>
 
 </details>
-  
-## Oproep aan het kabinet
+
+<br>
+
+# Oproep aan het kabinet
 
 Wij hopen dat het kabinet alleen besluit tot inzet van apps met borging
 van onze privacy. Zeker als die apps verplicht worden gesteld, maar
