@@ -2,12 +2,12 @@
 layout: post
 title: "Personal Health Train: An application to risk equalization (in Dutch)"
 date: 2019-02-19
-comments: true
+slug: personal-health-train-case-risk-equalization
 ---
 
 > Deze blog van mijn hand heb ik op bovenstaande datum op [LinkedIn](https://www.linkedin.com/pulse/personal-health-train-casus-risicoverevening-piet-stam/) gepubliceerd en is hier integraal overgenomen om de openbare beschikbaarheid te garanderen.
 
-![](/img/2019-02-19-1.jpg "Bron: Kim Stellingwerf/RTV Drenthe")
+![](/static/2019-02-19-1.jpg "Bron: Kim Stellingwerf/RTV Drenthe")
 
 Voor [onderzoek](https://www.rijksoverheid.nl/documenten/brochures/2016/03/01/beschrijving-van-het-risicovereveningssysteem-van-de-zorgverzekeringswet) & [uitvoering](https://www.zorginstituutnederland.nl/financiering/risicoverevening-zvw/wat-is-risicoverevening) van de risicoverevening tussen zorgverzekeraars wordt het zorggebruik van alle 17 miljoen individuele (!) Nederlanders centraal verzameld in een landelijk databestand. Kan dat ook decentraal? Misschien met de [Personal Health Train](http://www.personalhealthtrain.nl/) (PHT), het concept dat Minister Bruins [propageert](https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid) en is ontwikkeld door [DTL](https://www.dtls.nl/fair-data/personal-health-train/), [MAASTRO](https://www.linkedin.com/in/alajdekker/) en [LUMC](https://www.linkedin.com/in/peter-bram-t-hoen-1b6b9a18/)? Mijn voorlopige conclusie is: helaas (nog?) niet.
 

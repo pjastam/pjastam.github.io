@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Coronavirus-apps: voorkomen is beter dan genezen"
-#date: 2020-04-12
-comments: yes
+date: 2020-04-12
+slug: coronavirus-apps-privacy-conditions
 ---
 
 Het kabinet kondigt twee apps aan voor het monitoren en beheersen van de
