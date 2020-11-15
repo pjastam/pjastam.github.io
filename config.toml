@@ -13,9 +13,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "Publications"
-    url = "http://www.zotero.org/pjastam"
-[[menu.main]]
     name = "LinkedIn"
     url = "http://www.linkedin.com/in/pjastam"
 [[menu.main]]
